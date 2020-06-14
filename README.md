@@ -17,3 +17,8 @@ Hospedagem das imagens:<br>
 
 
 Deixo meu agradecimento ao <strong>Tiago Luz </strong>do canal, <a href="https://www.youtube.com/channel/UCI4mJ2FXeA-RuDbwZA0z_MA/videos">While True.</a> 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/188964866@N08/rnBzpR" title="Tela_Agendamento"><img src="https://live.staticflickr.com/65535/50006436272_1b2e6663fe_b.jpg" width="1024" height="803" alt="Tela_Agendamento"></a>
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/188964866@N08/3383CU" title="Tela_Menu"><img src="https://live.staticflickr.com/65535/50006436307_39db8301d5_b.jpg" width="1024" height="960" alt="Tela_Menu"></a>
